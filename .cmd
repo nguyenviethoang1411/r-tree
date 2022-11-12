@@ -1,0 +1,1 @@
+dotnet run C:\Users\ACER\Desktop\Viet Hoang Nguyen Assignment 2 COMP 6210\data\Dataset for R-Tree.txt C:\Users\ACER\Desktop\Viet Hoang Nguyen Assignment 2 COMP 6210\data\100 Queries.txt
